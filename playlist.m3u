@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD1 1080" tvg-logo="" group-title="beIN SPORTS FHD",Bein Sports HD1 1080
 488
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD2 1080" tvg-logo="" group-title="beIN SPORTS FHD",Bein Sports HD2 1080
@@ -37,6 +38,12 @@
 505
 #EXTINF:-1 tvg-id="" tvg-name="⚽ beIN XTRA 1ᴴᴰ" tvg-logo="" group-title="beIN SPORTS HD",⚽ beIN XTRA 1ᴴᴰ
 506
+#EXTINF:-1 tvg-id="" tvg-name="⚽ beIN XTRA 3ᴴᴰ" tvg-logo="" group-title="beIN SPORTS HD",⚽ beIN XTRA 3ᴴᴰ
+972
+#EXTINF:-1 tvg-id="" tvg-name="⚽ beIN XTRA 2ᴴᴰ" tvg-logo="" group-title="beIN SPORTS HD",⚽ beIN XTRA 2ᴴᴰ
+971
+#EXTINF:-1 tvg-id="" tvg-name="⚽ beIN XTRA 1ᴴᴰ" tvg-logo="" group-title="beIN SPORTS HD",⚽ beIN XTRA 1ᴴᴰ
+970
 #EXTINF:-1 tvg-id="" tvg-name="⚽ beIN SPORTS 2 LOW" tvg-logo="" group-title="beIN SPORTS SD",⚽ beIN SPORTS 2 LOW
 513
 #EXTINF:-1 tvg-id="" tvg-name="⚽ beIN SPORTS 1 LOW" tvg-logo="" group-title="beIN SPORTS SD",⚽ beIN SPORTS 1 LOW
@@ -63,6 +70,10 @@
 521
 #EXTINF:-1 tvg-id="" tvg-name="THMANYAH 1 HD" tvg-logo="" group-title="thmanyah & STARZ PLAY",THMANYAH 1 HD
 520
+#EXTINF:-1 tvg-id="" tvg-name="STARZ PLAY 2" tvg-logo="" group-title="thmanyah & STARZ PLAY",STARZ PLAY 2
+573
+#EXTINF:-1 tvg-id="" tvg-name="STARZ PLAY 1 HD" tvg-logo="" group-title="thmanyah & STARZ PLAY",STARZ PLAY 1 HD
+572
 #EXTINF:-1 tvg-id="" tvg-name="Fajer Tv 5" tvg-logo="" group-title="FAJER TV",Fajer Tv 5
 565
 #EXTINF:-1 tvg-id="" tvg-name="Fajer Tv 4" tvg-logo="" group-title="FAJER TV",Fajer Tv 4
@@ -85,6 +96,18 @@
 515
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORTS 1" tvg-logo="" group-title="ALWAN SPORTS",ALWAN SPORTS 1
 514
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN AFLAM 1" tvg-logo="" group-title="ALWAN SPORTS",ALWAN AFLAM 1
+946
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN MOSALSALAT" tvg-logo="" group-title="ALWAN SPORTS",ALWAN MOSALSALAT
+947
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN TURKY" tvg-logo="" group-title="ALWAN SPORTS",ALWAN TURKY
+948
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN KOREA" tvg-logo="" group-title="ALWAN SPORTS",ALWAN KOREA
+949
+#EXTINF:-1 tvg-id="" tvg-name="AD Sports 1" tvg-logo="" group-title="ARABIC SPORTS",AD Sports 1
+957
+#EXTINF:-1 tvg-id="" tvg-name="AD Sports 2" tvg-logo="" group-title="ARABIC SPORTS",AD Sports 2
+958
 #EXTINF:-1 tvg-id="" tvg-name="ON SPORTS 2" tvg-logo="" group-title="ARABIC SPORTS",ON SPORTS 2
 527
 #EXTINF:-1 tvg-id="" tvg-name="ON SPORTS 1" tvg-logo="" group-title="ARABIC SPORTS",ON SPORTS 1
@@ -107,6 +130,8 @@
 822
 #EXTINF:-1 tvg-id="" tvg-name="Sharjah Sports (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/CsEElsJ.png" group-title="ARABIC SPORTS",Sharjah Sports (1080p) [Geo-blocked]
 884
+#EXTINF:-1 tvg-id="" tvg-name="AL RABIAA SPORTS" tvg-logo="" group-title="ARABIC SPORTS",AL RABIAA SPORTS
+956
 #EXTINF:-1 tvg-id="" tvg-name="◉ beIN BARAEEM" tvg-logo="" group-title="beIN entertainment",◉ beIN BARAEEM
 537
 #EXTINF:-1 tvg-id="" tvg-name="◉ beIN JEEM" tvg-logo="" group-title="beIN entertainment",◉ beIN JEEM
@@ -137,30 +162,40 @@
 554
 #EXTINF:-1 tvg-id="" tvg-name="ART Aflam 1" tvg-logo="" group-title="OSN",ART Aflam 1
 553
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN DISCOVERY IDX HD" tvg-logo="" group-title="OSN",AR: OSN DISCOVERY IDX HD
-550
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN DISNEY JUNIOR HD" tvg-logo="" group-title="OSN",AR: OSN DISNEY JUNIOR HD
-549
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN NICKLODEON HD" tvg-logo="" group-title="OSN",AR: OSN NICKLODEON HD
-548
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN NOW 4K" tvg-logo="" group-title="OSN",AR: OSN NOW 4K
-546
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES HOLLYWOOD HD" tvg-logo="" group-title="OSN",AR: OSN MOVIES HOLLYWOOD HD
-545
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES ACTION HD" tvg-logo="" group-title="OSN",AR: OSN MOVIES ACTION HD
-544
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN SAFWAH HD" tvg-logo="" group-title="OSN",AR: OSN SAFWAH HD
-543
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MUSALSALAT 2 HD" tvg-logo="" group-title="OSN",AR: OSN MUSALSALAT 2 HD
-542
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN CINEMA 1 HD" tvg-logo="" group-title="OSN",AR: OSN CINEMA 1 HD
-541
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN YAHALA AFLAM HD" tvg-logo="" group-title="OSN",AR: OSN YAHALA AFLAM HD
-540
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN YAHALA BIL ARABI HD" tvg-logo="" group-title="OSN",AR: OSN YAHALA BIL ARABI HD
-539
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN YAHALA HD" tvg-logo="" group-title="OSN",AR: OSN YAHALA HD
-538
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ YAHALA HD" tvg-logo="" group-title="OSN",| OSN ◉ YAHALA HD
+973
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ YAHALA Arabia ᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ YAHALA Arabia ᴴᴰ
+974
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ YAHALA AFLAM ᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ YAHALA AFLAM ᴴᴰ
+975
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ ALSAFWAᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ ALSAFWAᴴᴰ
+976
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ ALYOUM ᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ ALYOUM ᴴᴰ
+977
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ ALFA CINEMA 1ᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ ALFA CINEMA 1ᴴᴰ
+978
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ ALFA CINEMA 2ᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ ALFA CINEMA 2ᴴᴰ
+979
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ ALFA MUSALSALAT ᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ ALFA MUSALSALAT ᴴᴰ
+980
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ Movies Action ᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ Movies Action ᴴᴰ
+981
+#EXTINF:-1 tvg-id="" tvg-name="OSN | MOVIES Hollywoodᴴᴰ" tvg-logo="" group-title="OSN",OSN | MOVIES Hollywoodᴴᴰ
+982
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ Crime ᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ Crime ᴴᴰ
+983
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ NOWᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ NOWᴴᴰ
+984
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ Nat Geo Wild ᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ Nat Geo Wild ᴴᴰ
+985
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ KIDS ᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ KIDS ᴴᴰ
+986
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ DISNEY CHANNELᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ DISNEY CHANNELᴴᴰ
+987
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ WWE ᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ WWE ᴴᴰ
+988
+#EXTINF:-1 tvg-id="" tvg-name="| OSN ◉ Action 2 ◉ᴴᴰ" tvg-logo="" group-title="OSN",| OSN ◉ Action 2 ◉ᴴᴰ
+989
 #EXTINF:-1 tvg-id="" tvg-name="◉ MBC Max" tvg-logo="" group-title="MBC & ROTANA",◉ MBC Max
 560
 #EXTINF:-1 tvg-id="" tvg-name="◉ MBC Aciton" tvg-logo="" group-title="MBC & ROTANA",◉ MBC Aciton
@@ -205,6 +240,10 @@
 779
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1 (1080p)" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="MBC & ROTANA",MBC 1 (1080p)
 778
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror" tvg-logo="" group-title="NETFLIX",Netflix Horror
+932
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX  ACTION" tvg-logo="" group-title="NETFLIX",NETFLIX  ACTION
+933
 #EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX" tvg-logo="" group-title="Movies Premium",SHOOF MAX
 125
 #EXTINF:-1 tvg-id="" tvg-name="iFilm Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Movies Premium",iFilm Arabic
@@ -225,6 +264,10 @@
 802
 #EXTINF:-1 tvg-id="" tvg-name="Movies Action (1080p)" tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="Movies Premium",Movies Action (1080p)
 801
+#EXTINF:-1 tvg-id="" tvg-name="ONE MOVIES" tvg-logo="" group-title="Movies Premium",ONE MOVIES
+937
+#EXTINF:-1 tvg-id="" tvg-name="MX BoxOffice" tvg-logo="" group-title="Movies Premium",MX BoxOffice
+969
 #EXTINF:-1 tvg-id="" tvg-name="Sharjah Radio Quran (1080p)" tvg-logo="https://i.imgur.com/MxZlOvc.png" group-title="ISLAMIC",Sharjah Radio Quran (1080p)
 883
 #EXTINF:-1 tvg-id="" tvg-name="Quran Radio (1080p)" tvg-logo="https://i.imgur.com/ut0kr4x.png" group-title="ISLAMIC",Quran Radio (1080p)
@@ -577,28 +620,32 @@
 916
 #EXTINF:-1 tvg-id="" tvg-name="Zagros (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/9Mspf32.png" group-title="ARABIC",Zagros (720p) [Not 24/7]
 917
-#EXTINF:-1 tvg-id="" tvg-name="STC SPORT 1 HD" tvg-logo="" group-title="STC TV",STC SPORT 1 HD
-572
-#EXTINF:-1 tvg-id="" tvg-name="STC SPORT 2 HD" tvg-logo="" group-title="STC TV",STC SPORT 2 HD
-573
-#EXTINF:-1 tvg-id="" tvg-name="STC SPORT 3 HD" tvg-logo="" group-title="STC TV",STC SPORT 3 HD
-574
-#EXTINF:-1 tvg-id="" tvg-name="STC TV Drama HD" tvg-logo="" group-title="STC TV",STC TV Drama HD
-576
-#EXTINF:-1 tvg-id="" tvg-name="STC TV Family HD" tvg-logo="" group-title="STC TV",STC TV Family HD
-577
-#EXTINF:-1 tvg-id="" tvg-name="STC TV Cinema HD" tvg-logo="" group-title="STC TV",STC TV Cinema HD
-578
-#EXTINF:-1 tvg-id="" tvg-name="STC THMANYAH" tvg-logo="" group-title="STC TV",STC THMANYAH
-579
+#EXTINF:-1 tvg-id="" tvg-name="TOD ZAMAN HD" tvg-logo="" group-title="TOD",TOD ZAMAN HD
+959
+#EXTINF:-1 tvg-id="" tvg-name="TOD ENMIE HD" tvg-logo="" group-title="TOD",TOD ENMIE HD
+960
+#EXTINF:-1 tvg-id="" tvg-name="TOD HORROR HD" tvg-logo="" group-title="TOD",TOD HORROR HD
+961
+#EXTINF:-1 tvg-id="" tvg-name="TOD INDIA HD" tvg-logo="" group-title="TOD",TOD INDIA HD
+962
+#EXTINF:-1 tvg-id="" tvg-name="TOD MOVIES HD" tvg-logo="" group-title="TOD",TOD MOVIES HD
+963
+#EXTINF:-1 tvg-id="" tvg-name="TOD ACTION HD" tvg-logo="" group-title="TOD",TOD ACTION HD
+964
+#EXTINF:-1 tvg-id="" tvg-name="TOD COMEDY HD" tvg-logo="" group-title="TOD",TOD COMEDY HD
+965
+#EXTINF:-1 tvg-id="" tvg-name="TOD AFLAM 1 HD" tvg-logo="" group-title="TOD",TOD AFLAM 1 HD
+966
+#EXTINF:-1 tvg-id="" tvg-name="TOD MAGIC HD" tvg-logo="" group-title="TOD",TOD MAGIC HD
+967
+#EXTINF:-1 tvg-id="" tvg-name="TOD TURKY HD" tvg-logo="" group-title="TOD",TOD TURKY HD
+968
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic Abu Dhabi HD (1080p)" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Documentary",National Geographic Abu Dhabi HD (1080p)
 812
 #EXTINF:-1 tvg-id="" tvg-name="AR: OSN NAT GEO WILD HD" tvg-logo="" group-title="Documentary",AR: OSN NAT GEO WILD HD
 552
 #EXTINF:-1 tvg-id="" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="" group-title="Documentary",AR: OSN DISCOVERY HD
 551
-#EXTINF:-1 tvg-id="" tvg-name="Asharq Discovery (1080p)" tvg-logo="https://i.imgur.com/Czxi7yk.png" group-title="Documentary",Asharq Discovery (1080p)
-681
 #EXTINF:-1 tvg-id="" tvg-name="DW Arabic (1080p)" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Documentary",DW Arabic (1080p)
 713
 #EXTINF:-1 tvg-id="" tvg-name="Asharq Documentary (1080p)" tvg-logo="https://i.imgur.com/v6VsFEt.png" group-title="Documentary",Asharq Documentary (1080p)
@@ -621,3 +668,29 @@
 925
 #EXTINF:-1 tvg-id="" tvg-name="SHOOF LIVE 2" tvg-logo="" group-title="AL KASS",SHOOF LIVE 2
 926
+#EXTINF:-1 tvg-id="" tvg-name="POST SPORTS 2" tvg-logo="" group-title="POST SPORTS",POST SPORTS 2
+952
+#EXTINF:-1 tvg-id="" tvg-name="POST SPORTS 1" tvg-logo="" group-title="POST SPORTS",POST SPORTS 1
+951
+#EXTINF:-1 tvg-id="" tvg-name="POST SPORTS 3" tvg-logo="" group-title="POST SPORTS",POST SPORTS 3
+953
+#EXTINF:-1 tvg-id="" tvg-name="POST SPORTS 4" tvg-logo="" group-title="POST SPORTS",POST SPORTS 4
+954
+#EXTINF:-1 tvg-id="" tvg-name="POST SPORTS 5" tvg-logo="" group-title="POST SPORTS",POST SPORTS 5
+955
+#EXTINF:-1 tvg-id="" tvg-name="Shahid VIP  Action" tvg-logo="" group-title="SHAHİD VİP",Shahid VIP  Action
+997
+#EXTINF:-1 tvg-id="" tvg-name="Shahid VIP INDIA" tvg-logo="" group-title="SHAHİD VİP",Shahid VIP INDIA
+996
+#EXTINF:-1 tvg-id="" tvg-name="Shahid VIP Arabic" tvg-logo="" group-title="SHAHİD VİP",Shahid VIP Arabic
+995
+#EXTINF:-1 tvg-id="" tvg-name="Shahid VIP5 Documentar" tvg-logo="" group-title="SHAHİD VİP",Shahid VIP5 Documentar
+994
+#EXTINF:-1 tvg-id="" tvg-name="Shahid VIP Arabic Classic" tvg-logo="" group-title="SHAHİD VİP",Shahid VIP Arabic Classic
+993
+#EXTINF:-1 tvg-id="" tvg-name="Shahid VIP Drama" tvg-logo="" group-title="SHAHİD VİP",Shahid VIP Drama
+992
+#EXTINF:-1 tvg-id="" tvg-name="Shahid VIP Comedy" tvg-logo="" group-title="SHAHİD VİP",Shahid VIP Comedy
+991
+#EXTINF:-1 tvg-id="" tvg-name="Shahid VIP Horror" tvg-logo="" group-title="SHAHİD VİP",Shahid VIP Horror
+990
